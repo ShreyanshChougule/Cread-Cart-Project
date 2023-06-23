@@ -1,6 +1,8 @@
 import pytest
 from selenium import webdriver
 
+from Utilities.Read_Config_File import Read_Config
+
 
 def pytest_addoption(parser):
     parser.addoption("--browser")
@@ -21,7 +23,10 @@ def setup(browser):
         Edge_options = webdriver.EdgeOptions()
         Edge_options.add_argument("headless")
         driver = webdriver.Edge(options=Edge_options)
-    driver.get("https://automation.credence.in")
+
+    r = Read_Config()
+    # driver.get("https://automation.credence.in")
+    driver.get(r.getURL())
     driver.maximize_window()
     return driver
 
@@ -33,5 +38,3 @@ def Data_for_login(request):
 
 # ("test@credence.in", "test@1231"),
 # ("test@credence.in1", "test@1231")
-def test_new(Data_for_login):
-    print("A = ", Data_for_login[0], "and B = ", Data_for_login[1])

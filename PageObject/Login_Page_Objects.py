@@ -25,10 +25,10 @@ class Login_Objects:
     def Click_Login_Button(self):
         self.driver.find_element(*Login_Objects.Login_Button).click()
 
-    def Status(self):
+    def Status(self, Key_word="Test_Login"):
         try:
             s = self.driver.find_element(*Login_Objects.Status_Text).text
             if s == Login_Objects.Tx:
-                self.driver.get_screenshot_as_file("C:\\Users\\Tejas\\Class Project\\Screenshots\\Login\\Test_Login_Pass.png")
+                self.driver.get_screenshot_as_file(f"C:\\Users\\Tejas\\Class Project\\Screenshots\\Login\\{Key_word}_Pass.png")
         except NoSuchElementException:
-            self.driver.get_screenshot_as_file("C:\\Users\\Tejas\\Class Project\\Screenshots\\Login\\Test_Login_Fail.png")
+            self.driver.get_screenshot_as_file(f"C:\\Users\\Tejas\\Class Project\\Screenshots\\Login\\{Key_word}_Fail.png")
