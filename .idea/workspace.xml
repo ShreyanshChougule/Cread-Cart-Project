@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a638c0e7-4621-4aee-a1ff-d136763f63e5" name="Changes" comment="" />
+    <list default="true" id="a638c0e7-4621-4aee-a1ff-d136763f63e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Stuff__Login_with_Configfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All Stuff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/All Stuff.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/All_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/All_logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Login/Test_Login_Fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/Login/Test_Login_Fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Login/Test_Login_Pass.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/Login/Test_Login_Pass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_Login_with_Configfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Read_Config_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Read_Config_File.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f2eabf96-cfa2-4ff6-8d3b-af045bff6729" />
+        <option name="url" value="https://github.com/ShreyanshChougule/Class-Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -21,6 +56,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2RYdYElNm288rtZLYBa4bEPiE0e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -28,18 +66,31 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tejas/Class Project/TestCases/conftest.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Tejas/Class Project",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tejas\Class Project\Utilities" />
       <recent name="C:\Users\Tejas\Class Project\TestCases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tejas\Class Project" />
+      <recent name="C:\Users\Tejas\Class Project\TestCases" />
+      <recent name="C:\Users\Tejas\Class Project\Configuration" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest for conftest.test_new">
@@ -143,5 +194,16 @@
       <updated>1687431011287</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

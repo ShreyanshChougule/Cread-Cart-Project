@@ -21,3 +21,4 @@ class Read_Config:
     def getpass():
         password = data.get("login data", "password")
         return password
+
