@@ -7,7 +7,7 @@ from Utilities.Logger import LogGenerator
 from Utilities.Read_Config_File import Read_Config
 
 
-# @pytest.mark.skip
+@pytest.mark.skip("Test Login is Completed..!")
 class Test_Login:
     log = LogGenerator.getLog()
     r = Read_Config()

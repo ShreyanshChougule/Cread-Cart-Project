@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a638c0e7-4621-4aee-a1ff-d136763f63e5" name="Changes" comment="Registration Page Test">
+    <list default="true" id="a638c0e7-4621-4aee-a1ff-d136763f63e5" name="Changes" comment="Test Login and Test Registration Fully Automated">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/All Python Stuffs.py" beforeDir="false" afterPath="$PROJECT_DIR$/All Python Stuffs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All Stuff.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/All_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/All_logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/L1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/L2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Registration_Page_Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Registration_Page_Objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/Registeration/Test_Registration_Fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/Registeration/Test_Registration_Fail.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stuff__Login_with_Configfile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCases/test_Registeration.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_Registeration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestData/Test_Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Test_Data.xlsx" afterDir="false" />
@@ -218,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687949196687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test Login and Test Registration Fully Automated">
+      <created>1688014562481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688014562481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +235,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Registration Page Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Registration Page Test" />
+    <MESSAGE value="Test Login and Test Registration Fully Automated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Login and Test Registration Fully Automated" />
   </component>
 </project>

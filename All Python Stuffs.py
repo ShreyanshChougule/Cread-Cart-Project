@@ -27,8 +27,14 @@ import pytest
 
 #
 from selenium import webdriver
+from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.common.by import By
 #
 driver = webdriver.Edge()
 # driver.find_element(By.LINK_TEXT, "")
 driver.find_element().clear()
+
+a = Alert(driver)
+a.text()
+a.accept()
+a.dismiss()

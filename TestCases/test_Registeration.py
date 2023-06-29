@@ -6,7 +6,7 @@ from Utilities.Logger import LogGenerator
 from Utilities.Read_Excel_File import Read_Excel_File
 
 
-# @pytest.mark.skip
+@pytest.mark.skip("Test Registration is Completed..!")
 class Test_Registration:
     log = LogGenerator.getLog()
     R = Read_Excel_File()

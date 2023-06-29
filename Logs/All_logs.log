@@ -38,3 +38,21 @@
 2023-06-29 10:22:13,447 : INFO : Test_Registration : test_registration : 33 : Clicking on Register Button
 2023-06-29 10:22:13,622 : INFO : Test_Registration : test_registration : 35 : Status of The Page is Captured
 2023-06-29 10:22:13,623 : INFO : Test_Registration : test_registration : 36 : Test Registration is Completed..!
+2023-06-29 15:46:01,444 : INFO : Test_Order : test_order : 19 : Test Order is Started
+2023-06-29 15:46:01,445 : INFO : Test_Order : test_order : 21 : Invoking Browser and Opening URL
+2023-06-29 15:46:06,507 : INFO : Test_Order : test_order : 30 : Login Througt Valid Inputs
+2023-06-29 15:46:09,073 : INFO : Test_Order : test_order : 35 : Select Apple Mackbook and Click
+2023-06-29 15:46:09,965 : INFO : Test_Order : test_order : 37 : Adding Product to Cart
+2023-06-29 15:46:10,712 : INFO : Test_Order : test_order : 39 : Proceding For Checkout
+2023-06-29 15:46:10,929 : INFO : Test_Order : test_order : 41 : Entering First Name: Kim
+2023-06-29 15:46:11,137 : INFO : Test_Order : test_order : 43 : Entering Last Name: Jong
+2023-06-29 15:46:11,387 : INFO : Test_Order : test_order : 45 : Entering Phone Number: 9876543210
+2023-06-29 15:46:11,610 : INFO : Test_Order : test_order : 47 : Entering Address: Pune, Maharashtra, India
+2023-06-29 15:46:11,814 : INFO : Test_Order : test_order : 49 : Entering ZIP: 412121
+2023-06-29 15:46:12,059 : INFO : Test_Order : test_order : 51 : Select State Name: 2
+2023-06-29 15:46:12,274 : INFO : Test_Order : test_order : 53 : Entering Owner Name: Kim Jong
+2023-06-29 15:46:12,467 : INFO : Test_Order : test_order : 55 : Entering CVV: 123
+2023-06-29 15:46:12,859 : INFO : Test_Order : test_order : 57 : Entering Card Details as: 4716108899721050
+2023-06-29 15:46:13,164 : INFO : Test_Order : test_order : 59 : Select Expirey Year and Month: 2
+2023-06-29 15:46:17,361 : INFO : Test_Order : test_order : 61 : Status of the page is Captured
+2023-06-29 15:46:17,391 : INFO : Test_Order : test_order : 63 : Test Order is Completed...!
