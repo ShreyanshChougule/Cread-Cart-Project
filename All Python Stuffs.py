@@ -26,9 +26,9 @@ import pytest
 # -----------------
 
 #
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 #
-# driver = webdriver.Edge()
+driver = webdriver.Edge()
 # driver.find_element(By.LINK_TEXT, "")
-
+driver.find_element().clear()

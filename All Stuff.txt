@@ -1,8 +1,0 @@
-https://www.saucedemo.com/
-
-
-[pytest]
-markers =
-    Parameters: Login Using Parameters.
-    Config_File: Login Using Configuration File.
-    New: its New Test

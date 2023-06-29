@@ -1,210 +1,40 @@
-2023-06-23 11:14:28,444 : INFO : Test_Login : test_login : 11 : Test Login is started
-2023-06-23 11:14:28,668 : INFO : Test_Login : test_login : 13 : Invoking Browser And Opening URL
-2023-06-23 11:14:36,129 : INFO : Test_Login : test_login : 17 : Clicking on Register link
-2023-06-23 11:14:39,714 : INFO : Test_Login : test_login : 19 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 11:14:39,845 : INFO : Test_Login : test_login : 21 : Entering Password Addsress as: 1234512345
-2023-06-23 11:14:42,272 : INFO : Test_Login : test_login : 23 : Clicking on Login Button
-2023-06-23 11:14:45,537 : INFO : Test_Login : test_login : 26 : Status of the page is Captured
-2023-06-23 11:14:49,096 : INFO : Test_Login : test_login : 28 : Test Login is Completed
-2023-06-23 11:15:06,439 : INFO : Test_Login : test_login : 11 : Test Login is started
-2023-06-23 11:15:06,440 : INFO : Test_Login : test_login : 13 : Invoking Browser And Opening URL
-2023-06-23 11:15:12,270 : INFO : Test_Login : test_login : 17 : Clicking on Register link
-2023-06-23 11:15:13,753 : INFO : Test_Login : test_login : 19 : Entering Email Addsress as: test@credence.in1
-2023-06-23 11:15:14,268 : INFO : Test_Login : test_login : 21 : Entering Password Addsress as: test@123
-2023-06-23 11:15:16,630 : INFO : Test_Login : test_login : 23 : Clicking on Login Button
-2023-06-23 11:15:19,708 : INFO : Test_Login : test_login : 26 : Status of the page is Captured
-2023-06-23 11:15:20,882 : INFO : Test_Login : test_login : 28 : Test Login is Completed
-2023-06-23 18:08:21,625 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:08:21,625 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:08:21,664 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:08:21,664 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:08:33,772 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:08:33,772 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:08:34,796 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:08:34,796 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:08:35,324 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:08:35,324 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:08:37,325 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:08:37,325 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:08:40,153 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:08:40,153 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:08:42,528 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-23 18:08:42,528 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-23 18:09:44,595 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:09:44,595 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:09:44,596 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:09:44,596 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:09:47,639 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:09:47,639 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:09:47,834 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:09:47,834 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:09:47,977 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:09:47,977 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:09:49,750 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:09:49,750 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:09:52,105 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:09:52,105 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:09:56,066 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-23 18:09:56,066 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-23 18:13:53,881 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:13:53,881 : INFO : Test_Login : test_login_with_Config_File : 13 : Test Login is started
-2023-06-23 18:13:53,882 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:13:53,882 : INFO : Test_Login : test_login_with_Config_File : 15 : Invoking Browser And Opening URL
-2023-06-23 18:13:57,004 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:13:57,004 : INFO : Test_Login : test_login_with_Config_File : 19 : Clicking on Register link
-2023-06-23 18:13:57,148 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:13:57,148 : INFO : Test_Login : test_login_with_Config_File : 21 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-23 18:13:57,256 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:13:57,256 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Password Addsress as: 1234512345
-2023-06-23 18:13:58,978 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:13:58,978 : INFO : Test_Login : test_login_with_Config_File : 25 : Clicking on Login Button
-2023-06-23 18:14:01,192 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:14:01,192 : INFO : Test_Login : test_login_with_Config_File : 28 : Status of the page is Captured
-2023-06-23 18:14:01,236 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-23 18:14:01,236 : INFO : Test_Login : test_login_with_Config_File : 30 : Test Login is Completed
-2023-06-28 11:20:18,257 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:20:18,257 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:20:18,689 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:20:18,689 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:20:22,091 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:20:22,091 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:20:22,793 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:20:22,793 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:20:22,923 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:20:22,923 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:20:24,660 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:20:24,660 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:20:26,895 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:20:26,895 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:20:26,918 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:20:26,918 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:20:34,375 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:20:34,375 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:20:34,375 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:20:34,375 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:20:37,405 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:20:37,405 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:20:37,532 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:20:37,532 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:20:37,628 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:20:37,628 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:20:38,533 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:20:38,533 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:20:40,662 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:20:40,662 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:20:40,691 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:20:40,691 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:23:49,118 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:23:49,118 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:23:49,134 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:23:49,134 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:23:52,515 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:23:52,515 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:23:52,792 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:23:52,792 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:23:52,930 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:23:52,930 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:23:54,689 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:23:54,689 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:23:56,973 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:23:56,973 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:23:57,029 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:23:57,029 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:24:05,723 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:24:05,723 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:24:05,724 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:24:05,724 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:24:09,035 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:24:09,035 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:24:09,205 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:24:09,205 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:24:09,364 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:24:09,364 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:24:10,304 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:24:10,304 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:24:12,423 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:24:12,423 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:24:12,454 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:24:12,454 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:29:20,473 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:29:20,473 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:29:20,474 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:29:20,474 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:29:23,434 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:29:23,434 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:29:23,581 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:29:23,581 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:29:23,680 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:29:23,680 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:29:25,294 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:29:25,294 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:29:27,474 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:29:27,474 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:29:27,505 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:29:27,505 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:37:13,644 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:37:13,644 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:37:13,665 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:37:13,665 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:37:16,752 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:37:16,752 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:37:16,934 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:37:16,934 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:37:17,051 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:37:17,051 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:37:18,754 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:37:18,754 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:37:20,945 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:37:20,945 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:37:20,991 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:37:20,991 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:38:57,289 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:38:57,289 : INFO : Test_Login : test_login_with_Config_File : 15 : Test Login is started
-2023-06-28 11:38:57,311 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:38:57,311 : INFO : Test_Login : test_login_with_Config_File : 17 : Invoking Browser And Opening URL
-2023-06-28 11:39:00,380 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:39:00,380 : INFO : Test_Login : test_login_with_Config_File : 21 : Clicking on Register link
-2023-06-28 11:39:00,632 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:39:00,632 : INFO : Test_Login : test_login_with_Config_File : 23 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:39:00,750 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:39:00,750 : INFO : Test_Login : test_login_with_Config_File : 25 : Entering Password Addsress as: 1234512345
-2023-06-28 11:39:02,549 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:39:02,549 : INFO : Test_Login : test_login_with_Config_File : 27 : Clicking on Login Button
-2023-06-28 11:39:04,832 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:39:04,832 : INFO : Test_Login : test_login_with_Config_File : 30 : Status of the page is Captured
-2023-06-28 11:39:04,909 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:39:04,909 : INFO : Test_Login : test_login_with_Config_File : 32 : Test Login is Completed
-2023-06-28 11:58:50,235 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:58:50,235 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:58:50,255 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:58:50,255 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:58:53,215 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:58:53,215 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:58:53,352 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:58:53,352 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: Unknown2023@gmail.com
-2023-06-28 11:58:53,452 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:58:53,452 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: 1234512345
-2023-06-28 11:58:55,213 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:58:55,213 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:58:57,451 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:58:57,451 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:58:57,502 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:58:57,502 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:59:04,850 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:59:04,850 : INFO : Test_Login : test_login : 14 : Test Login is started
-2023-06-28 11:59:04,851 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:59:04,851 : INFO : Test_Login : test_login : 16 : Invoking Browser And Opening URL
-2023-06-28 11:59:07,762 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:59:07,762 : INFO : Test_Login : test_login : 20 : Clicking on Register link
-2023-06-28 11:59:07,904 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:59:07,904 : INFO : Test_Login : test_login : 22 : Entering Email Addsress as: test@credence.in1
-2023-06-28 11:59:08,008 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:59:08,008 : INFO : Test_Login : test_login : 24 : Entering Password Addsress as: test@123
-2023-06-28 11:59:08,831 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:59:08,831 : INFO : Test_Login : test_login : 26 : Clicking on Login Button
-2023-06-28 11:59:10,967 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:59:10,967 : INFO : Test_Login : test_login : 29 : Status of the page is Captured
-2023-06-28 11:59:11,045 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 11:59:11,045 : INFO : Test_Login : test_login : 31 : Test Login is Completed
-2023-06-28 12:47:45,595 : INFO : test_3 : test_3 : 11 : Test is Start
-2023-06-28 12:47:45,607 : INFO : test_3 : test_3 : 15 : Test is End
+2023-06-29 09:40:19,976 : INFO : Test_Login : test_login_with_parameters : 18 : Test Login is started
+2023-06-29 09:40:19,976 : INFO : Test_Login : test_login_with_parameters : 20 : Invoking Browser And Opening URL
+2023-06-29 09:40:23,263 : INFO : Test_Login : test_login_with_parameters : 24 : Clicking on Register link
+2023-06-29 09:40:23,406 : INFO : Test_Login : test_login_with_parameters : 26 : Entering Email Addsress as: Unknown2023@gmail.com
+2023-06-29 09:40:23,514 : INFO : Test_Login : test_login_with_parameters : 28 : Entering Password Addsress as: 1234512345
+2023-06-29 09:40:25,438 : INFO : Test_Login : test_login_with_parameters : 30 : Clicking on Login Button
+2023-06-29 09:40:27,615 : INFO : Test_Login : test_login_with_parameters : 33 : Status of the page is Captured
+2023-06-29 09:40:27,642 : INFO : Test_Login : test_login_with_parameters : 35 : Test Login is Completed
+2023-06-29 09:40:34,545 : INFO : Test_Login : test_login_with_parameters : 18 : Test Login is started
+2023-06-29 09:40:34,545 : INFO : Test_Login : test_login_with_parameters : 20 : Invoking Browser And Opening URL
+2023-06-29 09:40:37,633 : INFO : Test_Login : test_login_with_parameters : 24 : Clicking on Register link
+2023-06-29 09:40:37,765 : INFO : Test_Login : test_login_with_parameters : 26 : Entering Email Addsress as: test@credence.in1
+2023-06-29 09:40:37,874 : INFO : Test_Login : test_login_with_parameters : 28 : Entering Password Addsress as: test@123
+2023-06-29 09:40:38,810 : INFO : Test_Login : test_login_with_parameters : 30 : Clicking on Login Button
+2023-06-29 09:40:40,932 : INFO : Test_Login : test_login_with_parameters : 33 : Status of the page is Captured
+2023-06-29 09:40:40,956 : INFO : Test_Login : test_login_with_parameters : 35 : Test Login is Completed
+2023-06-29 09:40:47,430 : INFO : Test_Login : test_login_with_Config_File : 41 : Test Login is started
+2023-06-29 09:40:47,430 : INFO : Test_Login : test_login_with_Config_File : 43 : Invoking Browser And Opening URL
+2023-06-29 09:40:50,420 : INFO : Test_Login : test_login_with_Config_File : 47 : Clicking on Register link
+2023-06-29 09:40:50,549 : INFO : Test_Login : test_login_with_Config_File : 49 : Entering Email Addsress as: Unknown2023@gmail.com
+2023-06-29 09:40:50,653 : INFO : Test_Login : test_login_with_Config_File : 51 : Entering Password Addsress as: 1234512345
+2023-06-29 09:40:52,800 : INFO : Test_Login : test_login_with_Config_File : 53 : Clicking on Login Button
+2023-06-29 09:40:54,981 : INFO : Test_Login : test_login_with_Config_File : 56 : Status of the page is Captured
+2023-06-29 09:40:55,005 : INFO : Test_Login : test_login_with_Config_File : 58 : Test Login is Completed
+2023-06-29 10:22:06,230 : INFO : Test_Registration : test_registration : 16 : Test Registration is Started
+2023-06-29 10:22:06,230 : INFO : Test_Registration : test_registration : 18 : Invoking Browser and Opening URL
+2023-06-29 10:22:06,831 : INFO : Test_Registration : test_registration : 21 : Clicking on Register Button
+2023-06-29 10:22:10,101 : INFO : Test_Registration : test_registration : 25 : Entering User Name as: Unknown Owner
+2023-06-29 10:22:10,307 : INFO : Test_Registration : test_registration : 27 : Entering Email as: Unknown2023@gmail.com
+2023-06-29 10:22:10,523 : INFO : Test_Registration : test_registration : 29 : Entering Password as: 1234512345
+2023-06-29 10:22:10,705 : INFO : Test_Registration : test_registration : 31 : Entering Confirm Password as: 1234512345
+2023-06-29 10:22:11,603 : INFO : Test_Registration : test_registration : 33 : Clicking on Register Button
+2023-06-29 10:22:11,798 : INFO : Test_Registration : test_registration : 35 : Status of The Page is Captured
+2023-06-29 10:22:11,998 : INFO : Test_Registration : test_registration : 25 : Entering User Name as: Unknown Owner
+2023-06-29 10:22:12,202 : INFO : Test_Registration : test_registration : 27 : Entering Email as: Unknown2023@gmail.com
+2023-06-29 10:22:12,389 : INFO : Test_Registration : test_registration : 29 : Entering Password as: 1234512345
+2023-06-29 10:22:12,572 : INFO : Test_Registration : test_registration : 31 : Entering Confirm Password as: 1234512345
+2023-06-29 10:22:13,447 : INFO : Test_Registration : test_registration : 33 : Clicking on Register Button
+2023-06-29 10:22:13,622 : INFO : Test_Registration : test_registration : 35 : Status of The Page is Captured
+2023-06-29 10:22:13,623 : INFO : Test_Registration : test_registration : 36 : Test Registration is Completed..!

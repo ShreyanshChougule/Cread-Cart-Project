@@ -31,10 +31,6 @@ def setup(browser):
     return driver
 
 
-@pytest.fixture(params=[("Unknown2023@gmail.com", "1234512345"), ("test@credence.in1", "test@123")])
+@pytest.fixture(params=[("Unknown2023@gmail.com", "1234512345"), ("test@gmail.com", "test@123")])
 def Data_for_login(request):
     return request.param
-
-
-# ("test@credence.in", "test@1231"),
-# ("test@credence.in1", "test@1231")

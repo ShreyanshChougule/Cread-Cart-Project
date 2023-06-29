@@ -20,15 +20,19 @@ class Registration_Objects:
         self.driver.find_element(*Registration_Objects.Registration).click()
 
     def Enter_Username(self, username):
+        self.driver.find_element(*Registration_Objects.Name).clear()
         self.driver.find_element(*Registration_Objects.Name).send_keys(username)
 
     def Enter_Email(self, email):
+        self.driver.find_element(*Registration_Objects.Email_ID).clear()
         self.driver.find_element(*Registration_Objects.Email_ID).send_keys(email)
 
     def Enter_Password(self, password):
+        self.driver.find_element(*Registration_Objects.Password_ID).clear()
         self.driver.find_element(*Registration_Objects.Password_ID).send_keys(password)
 
     def Enter_Confirm_Password(self, confirm_password):
+        self.driver.find_element(*Registration_Objects.Confirm_Password_ID).clear()
         self.driver.find_element(*Registration_Objects.Confirm_Password_ID).send_keys(confirm_password)
 
     def Click_Register_Button(self):
